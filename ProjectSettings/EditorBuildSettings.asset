@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Kanato/Scene/Kanato1Scene.unity
+    guid: 70fd01bf024730b428da65427d918257
+  - enabled: 1
+    path: Assets/Kanato/Scene/Kanato2Scene.unity
+    guid: 8a8f18035fb25674cb7d59969d57b651
   m_configObjects: {}
